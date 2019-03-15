@@ -1,5 +1,5 @@
 example_id                        | status | run_time        |
 --------------------------------- | ------ | --------------- |
-./spec/foodie/food_spec.rb[1:1:1] | passed | 0.00092 seconds |
-./spec/foodie/food_spec.rb[1:1:2] | passed | 0.00008 seconds |
+./spec/foodie/food_spec.rb[1:1:1] | passed | 0.0004 seconds  |
+./spec/foodie/food_spec.rb[1:1:2] | passed | 0.0001 seconds  |
 ./spec/foodie_spec.rb[1:1]        | passed | 0.00072 seconds |
