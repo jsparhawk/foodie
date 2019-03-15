@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b37b44c-e115-4c1c-bc9e-9600c49d6e4b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/foodie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/foodie.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-    </list>
+    <list default="true" id="6b37b44c-e115-4c1c-bc9e-9600c49d6e4b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +183,7 @@
       <workItem from="1552647176501" duration="1002000" />
       <workItem from="1552664414717" duration="56000" />
       <workItem from="1552665474503" duration="363000" />
-      <workItem from="1552666440645" duration="1387000" />
+      <workItem from="1552666440645" duration="1942000" />
     </task>
     <servers />
   </component>
@@ -203,7 +199,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3570000" />
+    <option name="totallyTimeSpent" value="4125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
