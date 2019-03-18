@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'my test gem'
   spec.description   = 'my test gem'
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/jsparhawk/foodie'
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   # end
 
   if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = 'http://mygemserver.com'
+    #spec.metadata['allowed_push_host'] = 'http://mygemserver.com'
   else
     raise 'RubyGems 2.0 or newer is required to protect against ' \
       'public gem pushes.'
@@ -46,5 +46,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
-  spec.add_development_dependency "gem-release", "~> 2.0.1"
+  spec.add_development_dependency "gem-release", "~> 2.0"
 end

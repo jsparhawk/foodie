@@ -29,7 +29,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.0)
   foodie!
-  gem-release (~> 2.0.1)
+  gem-release (~> 2.0)
   rake (~> 10.0)
   rspec (~> 3.0)
 
