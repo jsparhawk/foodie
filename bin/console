@@ -12,6 +12,3 @@ require "foodie"
 
 require "irb"
 IRB.start(__FILE__)
-
-
-include Foodie::Food_type
